@@ -43,40 +43,40 @@ This project is a submission for the NASA Space Apps Challenge 2025 under the ch
 - Modern Glassmorphism Design: The UI elements feature a translucent, "liquid glass" effect that blends beautifully with the animated background.
 
 ## 🏆 Project Milestones
--Phase 1: Core Functionality & UI/UX (Completed)
- -Foundation: Initial project setup and integration with Open-Meteo and Nominatim APIs.
+- Phase 1: Core Functionality & UI/UX (Completed)
+   - Foundation: Initial project setup and integration with Open-Meteo and Nominatim APIs.
 
- -UI Development: Created core components like search, daily/hourly forecasts, and the details panel.
+   - UI Development: Created core components like search, daily/hourly forecasts, and the details panel.
 
- -Design: Implemented the initial glassmorphism design language.
+   - Design: Implemented the initial glassmorphism design language.
 
--Phase 2: Dynamic Visuals & Animation (Completed)
- -Canvas Integration: Developed the HTML5 Canvas background for dynamic weather effects.
+- Phase 2: Dynamic Visuals & Animation (Completed)
+   - Canvas Integration: Developed the HTML5 Canvas background for dynamic weather effects.
 
- -Atmospherics: Implemented procedural rain, splashes, and the initial 2D cloud system.
+   - Atmospherics: Implemented procedural rain, splashes, and the initial 2D cloud system.
 
- -Storm Effects: Added thunderstorm and lightning animations.
+   - Storm Effects: Added thunderstorm and lightning animations.
 
 - Phase 3: Realism & Immersion (Completed)
-- Cloud Overhaul: Re-engineered the cloud rendering system to create textured, puffy, and volumetric 3D clouds.
+   - Cloud Overhaul: Re-engineered the cloud rendering system to create textured, puffy, and volumetric 3D clouds.
 
- - Advanced Effects: Implemented internal cloud lightning flashes for more realistic storms.
+   - Advanced Effects: Implemented internal cloud lightning flashes for more realistic storms.
 
-  - Fine-Tuning: Refined all weather animations for a more natural and fluid look.
+   - Fine-Tuning: Refined all weather animations for a more natural and fluid look.
 
 - Phase 4: AI Integration & UI Polish (Completed)
-  - Smart Features: Integrated the Google Gemini API for intelligent activity suggestions.
+   - Smart Features: Integrated the Google Gemini API for intelligent activity suggestions.
 
- - Responsiveness: Engineered a fully responsive UI that adapts fluidly to all screen sizes.
+   - Responsiveness: Engineered a fully responsive UI that adapts fluidly to all screen sizes.
 
- - Final Polish: Enhanced UI/UX with readability improvements and refined animations.
+   - Final Polish: Enhanced UI/UX with readability improvements and refined animations.
 
 - Phase 5: Future Goals
-  - Historical Data: Plan to allow users to look up weather conditions for past dates.
+   - Historical Data: Plan to allow users to look up weather conditions for past dates.
 
- - Custom Alerts: Intend to let users set up notifications for specific weather conditions.
+   - Custom Alerts: Intend to let users set up notifications for specific weather conditions.
 
- - Sound Scapes: Add optional, subtle sound effects for rain and thunderstorms to enhance immersion.
+   - Sound Scapes: Add optional, subtle sound effects for rain and thunderstorms to enhance immersion.
 
 ## 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript (ES6+)
