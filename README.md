@@ -113,14 +113,14 @@ Get a Suggestion: Click the "✨ Ask Gemini" button to get a personalized activi
 🧑‍💻 Credits & Developers
 This project was brought to life by a talented team of developers. Connect with them on LinkedIn:
 
-Thomas Paul CJ: LinkedIn
+Thomas Paul CJ: [LinkedIn](https://www.linkedin.com/in/thomaspaulcj/)
 
-Adith Abhilash: LinkedIn
+Adith Abhilash: [LinkedIn](https://www.linkedin.com/in/adithabhilash/)
 
-Vidhusankar CH: LinkedIn
+Vidhusankar CH: [LinkedIn](https://www.linkedin.com/in/vidhusankar-c-h-a68716248/)
 
-Tessa Johnson: LinkedIn
+Tessa Johnson: [LinkedIn](https://www.linkedin.com/in/tessajohnson01/)
 
-Priya Shaji: LinkedIn
+Priya Shaji: [LinkedIn](https://www.linkedin.com/in/priyashaji/)
 
-Keerthana P: LinkedIn
+Keerthana P: [LinkedIn](https://www.linkedin.com/in/keerthanapadmakumar/)
