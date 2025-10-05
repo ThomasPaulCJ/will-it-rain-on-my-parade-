@@ -1,12 +1,12 @@
 # Will It Rain On My Parade?
-## **📖 Introduction**
+## 📖 Introduction
 Will It Rain On My Parade? is a visually immersive and highly dynamic weather forecast application designed to provide a beautiful and intuitive user experience. It goes beyond simple data display by creating a responsive atmospheric background that reflects the real-time weather conditions of the selected location. With a sleek, "liquid glass" interface and fluid animations, it makes checking the weather an engaging experience.
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f0f3138f-f026-46d0-bb9b-01b72db3b291" />
 
 
 ## ❗️ Important Note on API Keys
-Please be aware that the "✨ Ask Gemini" feature requires a personal Google Gemini API key to function. This key is not provided with the project. You will need to obtain your own free key and insert it into the apiKey variable in the callGeminiApi function within the JavaScript code to enable the suggestion feature.
+Please be aware that the **"✨ Ask Gemini"** feature requires a personal Google Gemini API key to function. This key is not provided with the project. You will need to obtain your own free key and insert it into the apiKey variable in the callGeminiApi function within the JavaScript code to enable the suggestion feature.
 
 ## 🚀 NASA Space Apps Challenge 2025
 This project is a submission for the NASA Space Apps Challenge 2025 under the challenge category "Will It Rain On My Parade?". Our goal was to leverage weather data to create an application that is not only functional but also artistic and engaging, turning a simple weather check into a captivating visual experience.
