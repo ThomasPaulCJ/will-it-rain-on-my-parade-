@@ -1,17 +1,17 @@
-Will It Rain On My Parade?
-📖 Introduction
+# Will It Rain On My Parade?
+## 📖 Introduction
 Will It Rain On My Parade? is a visually immersive and highly dynamic weather forecast application designed to provide a beautiful and intuitive user experience. It goes beyond simple data display by creating a responsive atmospheric background that reflects the real-time weather conditions of the selected location. With a sleek, "liquid glass" interface and fluid animations, it makes checking the weather an engaging experience.
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f0f3138f-f026-46d0-bb9b-01b72db3b291" />
 
 
-❗️ Important Note on API Keys
+## ❗️ Important Note on API Keys
 Please be aware that the "✨ Ask Gemini" feature requires a personal Google Gemini API key to function. This key is not provided with the project. You will need to obtain your own free key and insert it into the apiKey variable in the callGeminiApi function within the JavaScript code to enable the suggestion feature.
 
-🚀 NASA Space Apps Challenge 2025
+## 🚀 NASA Space Apps Challenge 2025
 This project is a submission for the NASA Space Apps Challenge 2025 under the challenge category "Will It Rain On My Parade?". Our goal was to leverage weather data to create an application that is not only functional but also artistic and engaging, turning a simple weather check into a captivating visual experience.
 
-|✨ Features|
+## ✨ Features
 Live Weather Data: Fetches up-to-date, 7-day forecasts including daily and hourly breakdowns from the Open-Meteo API.
 
 Dynamic Animated Background: The entire background of the app is a live canvas that animates to match the current weather. This includes:
@@ -42,7 +42,7 @@ Fully Responsive UI: The interface is built to be adaptive, scaling elegantly to
 
 Modern Glassmorphism Design: The UI elements feature a translucent, "liquid glass" effect that blends beautifully with the animated background.
 
-🏆 Project Milestones
+## 🏆 Project Milestones
 Phase 1: Core Functionality & UI/UX (Completed)
 Foundation: Initial project setup and integration with Open-Meteo and Nominatim APIs.
 
@@ -78,7 +78,7 @@ Custom Alerts: Intend to let users set up notifications for specific weather con
 
 Sound Scapes: Add optional, subtle sound effects for rain and thunderstorms to enhance immersion.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
 Styling: Tailwind CSS for a utility-first CSS framework.
@@ -93,7 +93,7 @@ Google Gemini API: For generating intelligent, context-aware suggestions.
 
 Graphics: HTML5 Canvas API for all real-time weather animations and effects.
 
-🚀 How to Use
+## 🚀 How to Use
 Initial Load: Upon opening the application, it will request permission to access your location to provide an immediate forecast for where you are.
 
 Search for a Location: Type a city name, region, or coordinates (e.g., 40.71, -74.00) into the search bar at the top. A list of matching results will appear below.
@@ -110,7 +110,7 @@ View Details: Click the "Show Details" button to slide up a panel containing mor
 
 Get a Suggestion: Click the "✨ Ask Gemini" button to get a personalized activity suggestion based on the currently displayed weather.
 
-🧑‍💻 Credits & Developers
+## 🧑‍💻 Credits & Developers
 This project was brought to life by a talented team of developers. Connect with them on LinkedIn:
 
 Thomas Paul CJ: [LinkedIn](https://www.linkedin.com/in/thomaspaulcj/)
