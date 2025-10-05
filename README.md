@@ -11,7 +11,7 @@ Please be aware that the "✨ Ask Gemini" feature requires a personal Google Gem
 🚀 NASA Space Apps Challenge 2025
 This project is a submission for the NASA Space Apps Challenge 2025 under the challenge category "Will It Rain On My Parade?". Our goal was to leverage weather data to create an application that is not only functional but also artistic and engaging, turning a simple weather check into a captivating visual experience.
 
-✨ Features
+|✨ Features|
 Live Weather Data: Fetches up-to-date, 7-day forecasts including daily and hourly breakdowns from the Open-Meteo API.
 
 Dynamic Animated Background: The entire background of the app is a live canvas that animates to match the current weather. This includes:
