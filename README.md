@@ -1,5 +1,5 @@
 # Will It Rain On My Parade?
-## 📖 Introduction
+## **📖 Introduction**
 Will It Rain On My Parade? is a visually immersive and highly dynamic weather forecast application designed to provide a beautiful and intuitive user experience. It goes beyond simple data display by creating a responsive atmospheric background that reflects the real-time weather conditions of the selected location. With a sleek, "liquid glass" interface and fluid animations, it makes checking the weather an engaging experience.
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f0f3138f-f026-46d0-bb9b-01b72db3b291" />
